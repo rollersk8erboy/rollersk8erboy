@@ -1,4 +1,4 @@
-## Hi there, i'm José Manuel 👋
+## Hi there, I'm José Manuel 👋
 
 ### 🪴 Skills
 - **Programming Languages:** PHP, Python, Java and JavaScript
